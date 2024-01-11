@@ -1,16 +1,30 @@
-<h1 align="left">Hello! :sun_with_face: Welcome to my projects :books:</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+<h1 align="left">Welcome :cherry_blossom: </h1>
+
+**`Data Analysis | Feminism | Tech | Art`**
 
 ###
 
-<p align="left">My name is Mery and I'm a data analyst from Colombia </p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
+<p align="left">Glad to see you on my project space. My name is Mery and I'm a proud data analyst from Colombia. Feel free to explore and follow my journey on this never-ending learning process. </p>
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+---
+
+### <h3 align="left">🧰 Languages and Tools</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+#
+
+### 📫 How to reach me 
+<p align="left"> meryltenjor@gmail.com </p> 
+
+#
+
 ###
+<details>
+ <summary><h3>👨‍💻 My Analysis Journey</h3></summary>
+
+
+
+
+
+
